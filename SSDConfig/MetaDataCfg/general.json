@@ -1,0 +1,12 @@
+{
+  "flash_data": "flash_data.pkl",
+  "blockList_metadata": "blockList_metadata.pkl",
+  "data_free_blockID_per_plane_metadata": "data_free_blockID_per_plane_metadata.pkl",
+  "translation_free_blockID_per_plane_metadata": "translation_free_blockID_per_plane_metadata.pkl",
+  "gc_wl_free_blockID_per_plane_metadata": "gc_wl_free_blockID_per_plane_metadata.pkl",
+  "active_data_blockID_per_plane_metadata": "active_data_blockID_per_plane_metadata.pkl",
+  "active_translation_blockID_per_plane_metadata": "active_translation_blockID_per_plane_metadata.pkl",
+  "active_gc_wl_blockID_per_plane_metadata": "active_gc_wl_blockID_per_plane_metadata.pkl",
+  "current_plane_metadata": "current_plane_metadata.pkl",
+  "gtd_data": "gtd_data.pkl"
+}

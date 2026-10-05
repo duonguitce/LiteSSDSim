@@ -1,0 +1,7 @@
+{
+  "cmt_capacity": 16384,
+  "cmt_ctp_entry_size": 12,
+  "cmt_mapping_entry_size": 12,
+  "gtd_translation_entry_size": 8,
+  "ftp_mapping_entry_size": 4
+}

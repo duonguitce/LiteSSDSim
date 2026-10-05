@@ -1,0 +1,10 @@
+{
+  "read_command_time": 1000,
+  "read_execution_time": 20000,
+  "write_command_time": 1500,
+  "write_execution_time": 400000,
+  "erase_command_time": 5000,
+  "erase_execution_time": 2500000,
+  "dram_read_latency_ns": 100,
+  "dram_write_latency_ns": 120
+}

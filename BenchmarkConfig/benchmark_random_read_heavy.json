@@ -1,0 +1,9 @@
+{
+  "prefill_percent"       : 30,
+  "benchmark_requests"    : 10000,
+  "seq_percent"           : 0,
+  "read_percent"          : 90,
+  "min_pages_per_request" : 1,
+  "max_pages_per_request" : 16,
+  "device_id"             : 0
+}

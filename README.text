@@ -1,0 +1,14 @@
+1. Install PyPy3 7.3.15 and Python3 3.9.18 (or newer)
+
+2. Generate workloads using one of the following methods:
+2.1. Execute ./BenchmarkGenerator.py to generate workloads based on the configuration in BenchmarkConfig.
+2.2. Download other workloads and place them in the Workloads directory.
+     Ensure that each line of the trace follows the format: <ID> <Address> <Size in Bytes> <R/W>.
+
+3. Execution
+3.1. Build test cases: ./BuildExperiment.py
+     This will create a script named Experiment_* and a directory named Output_*/Logs/.
+3.2. Run the experiment: ./RunTaskParallel.py <Experiment_*> -j <number of CPUs>
+
+4. Collect results
+./SummarizeResults.py <Output_*/Logs/> --csv <results_filename> --plot <metrics_directory_name>

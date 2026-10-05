@@ -1,0 +1,7 @@
+{
+  "gc_wl_reserved_ratio": 0.05,
+  "gc_threshold": 0.7,
+  "gc_target": 0.6,
+  "wl_threshold": 50,
+  "translation_reserved_ratio": 0.05
+}

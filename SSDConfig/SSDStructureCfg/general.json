@@ -1,0 +1,11 @@
+{
+  "n_channel": 4,
+  "chips_per_channel": 4,
+  "dies_per_chip": 4,
+  "planes_per_die": 4,
+  "blocks_per_plane": 512,
+  "pages_per_block": 1024,
+  "page_size": 4096,
+  "bus_width": 1,
+  "speed_mts": 800
+}
